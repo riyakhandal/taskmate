@@ -1,0 +1,5 @@
+db.sqlite3
+.env
+temp/
+taskmate/__pycache__/
+todolist_app/__pycache__/
